@@ -1,0 +1,10 @@
+q1 & q2 mailservers of ibm.com
+-mx0a-001b2d01.pphosted.com  location-usa
+-mx0b-001b2d01.pphosted.com   location-usa
+mailservers of wipro.com
+-wipro-com.mail.protection.outlook.com  location-south korea
+
+
+
+q3 all 1000 ports were filltered
+q4 no cves found
